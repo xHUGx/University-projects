@@ -1,0 +1,14 @@
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\bin\Debug\Lab1(webs_mod).exe.config
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\bin\Debug\Lab1(webs_mod).exe
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\bin\Debug\Lab1(webs_mod).pdb
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1(webs_mod).csprojAssemblyReference.cache
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1_webs_mod_.Form1.resources
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1_webs_mod_.Properties.Resources.resources
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1(webs_mod).csproj.GenerateResource.cache
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1(webs_mod).csproj.CoreCompileInputs.cache
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1(webs_mod).exe
+c:\users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1(webs_mod).pdb
+C:\Users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\bin\Debug\ExcelDataReader.dll
+C:\Users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\bin\Debug\ExcelDataReader.pdb
+C:\Users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\bin\Debug\ExcelDataReader.xml
+C:\Users\desgr\source\repos\Lab1(webs_mod)\Lab1(webs_mod)\obj\Debug\Lab1(webs_mod).csproj.CopyComplete
